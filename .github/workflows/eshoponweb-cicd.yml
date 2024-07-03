@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-tavo
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: eShopOnWeb_tavo
+  SUBSCRIPTION-ID: 7db3f175-bb99-4567-8cd1-51837160e55f
   WEBAPP-NAME: eshoponweb-webapp-tavo
 
 
